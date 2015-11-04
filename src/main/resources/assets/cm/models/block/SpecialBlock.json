@@ -1,0 +1,23 @@
+{
+    "textures": {
+        "down": "cm:blocks/SpecialBlock1",
+        "up": "cm:blocks/SpecialBlock2",
+        "north": "cm:blocks/SpecialBlock3",
+        "south": "cm:blocks/SpecialBlock4",
+        "west": "cm:blocks/SpecialBlock5",
+        "east": "cm:blocks/SpecialBlock6"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#down", "cullface": "down" },
+                "up":    { "texture": "#up", "cullface": "up" },
+                "north": { "texture": "#north", "cullface": "north" },
+                "south": { "texture": "#south", "cullface": "south" },
+                "west":  { "texture": "#west", "cullface": "west" },
+                "east":  { "texture": "#east", "cullface": "east" }
+            }
+        }
+    ]
+}

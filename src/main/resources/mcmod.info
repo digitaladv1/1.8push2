@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cm",
+  "name": "1.8 Mod",
+  "description": "1.8 Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["trainboy2019"],
+  "credits": "tranboy2019 and Choonster",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

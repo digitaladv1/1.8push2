@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "bites=0": { "model": "customCake" },
+        "bites=1": { "model": "customCake" },
+        "bites=2": { "model": "customCake" },
+        "bites=3": { "model": "customCake" },
+        "bites=4": { "model": "customCake" },
+        "bites=5": { "model": "customCake" },
+        "bites=6": { "model": "customCake" },
+        "bites=7": { "model": "customCake" },
+        "bites=8": { "model": "customCake" },
+        "bites=9": { "model": "customCake" },
+        "bites=10": { "model": "customCake" }
+    }
+}

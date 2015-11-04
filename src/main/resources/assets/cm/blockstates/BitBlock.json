@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=mario":{"model": "BitBlock0"},
+        "variant=modernmario":{"model": "BitBlock1"},
+        "variant=supermario":{"model": "BitBlock2"},
+        "variant=modernsupermario":{"model": "BitBlock3"},
+        "variant=firemario":{"model": "BitBlock4"},
+        "variant=modernfiremario":{"model": "BitBlock5"},
+        "variant=wierdmario":{"model": "BitBlock6"},
+        "variant=modernwierdmario":{"model": "BitBlock7"},
+        "variant=luigi":{"model": "BitBlock8"},
+        "variant=modernluigi":{"model": "BitBlock9"},
+        "variant=superluigi":{"model": "BitBlock10"},
+        "variant=modernsuperluigi":{"model": "BitBlock11"},
+        "variant=fireluigi":{"model": "BitBlock12"},
+        "variant=modernfireluigi":{"model": "BitBlock13"},
+        "variant=wierdluigi":{"model": "BitBlock14"},
+        "variant=modernwierdluigi":{"model": "BitBlock15"}
+    }
+}
